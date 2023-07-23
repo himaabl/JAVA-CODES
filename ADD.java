@@ -1,7 +1,11 @@
 public class ADD {
     public static void main(String [] args)
     {
-        System.out.println(3+5);
+       //byte b= 125;
+       int a= 12;
+       byte k = (byte)a;
+
+       System.out.println(a);
     }
  
 }
